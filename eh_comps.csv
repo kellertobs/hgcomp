@@ -1,0 +1,4 @@
+Phase,O,O_err,Si,Si_err,Mg,Mg_err,Al,Al_err,Ca,Ca_err,Fe,Fe_err,Ni,Ni_err,S,S_err,Ti,Ti_err,Mn,Mn_err,Cr,Cr_err,Co,Co_err,Na,Na_err,K,K_err,prop,prop_err,reference
+silicate,48,0.47,29.7,1.91,19.5,2.5,1.36,0.35,0.17,0.08,0.33,0.57,nan,nan,nan,nan,0.01,nan,0.03,nan,0.13,nan,nan,nan,1.04,nan,0.09,nan,68.3,8.50,javoy2010
+sulfide,nan,nan,nan,nan,2.41,2.11,0.24,0.79,4.43,2.62,52.1,5.3,0.02,0.04,37.4,1.39,0.7,nan,2.11,nan,1.56,nan,nan,nan,0.22,nan,0.17,nan,11.6,4.09,javoy2010
+metal,nan,nan,2.05,0.92,nan,nan,nan,nan,nan,nan,90.5,1.36,7.09,0.90,nan,nan,nan,nan,nan,nan,nan,nan,0.31,nan,nan,nan,nan,nan,20.1,9.36,javoy2010
